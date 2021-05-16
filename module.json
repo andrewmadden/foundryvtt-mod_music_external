@@ -1,0 +1,24 @@
+{
+    "name": "music_external",
+    "title": "External Music",
+    "description": "A plugin to integrate external music sources into your foundry game.",
+    "author": "Andrew Madden",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.7.9",
+    "url": "https://github.com/andrewmadden/foundryvtt-mod_music_external",
+    "manifest": "https://github.com/andrewmadden/foundryvtt-mod_music_external/blob/main/module.json",
+    "download": "",
+    "license": "https://github.com/andrewmadden/foundryvtt-mod_music_external/blob/main/LICENSE.txt",
+    "readme": "https://github.com/andrewmadden/foundryvtt-mod_music_external/blob/main/README.md",
+    "bugs": "https://github.com/andrewmadden/foundryvtt-mod_music_external/issues",
+    "scripts": [],
+    "esmodules": ["js/main.js"],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "icons": []
+  }
